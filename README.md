@@ -1,5 +1,6 @@
-# rapidwechat
+# Rapidwechat
 给自己开发的轻量级Linux版微信客户端
+
 ##下载
 [下载最新版本]
 ## 基于[electron]开发
