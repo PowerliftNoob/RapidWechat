@@ -7,4 +7,4 @@
 
 
 
-[下载最新版本]：  https://github.com/iBeiKeCyn/rapidwechat/releases
+[下载最新版本]:  https://github.com/iBeiKeCyn/rapidwechat/releases
